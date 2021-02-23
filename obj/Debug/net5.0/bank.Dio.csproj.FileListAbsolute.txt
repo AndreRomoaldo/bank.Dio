@@ -1,0 +1,16 @@
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\bin\Debug\net5.0\bank.Dio.exe
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\bin\Debug\net5.0\bank.Dio.deps.json
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\bin\Debug\net5.0\bank.Dio.runtimeconfig.json
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\bin\Debug\net5.0\bank.Dio.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\bin\Debug\net5.0\bank.Dio.dll
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\bin\Debug\net5.0\ref\bank.Dio.dll
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\bin\Debug\net5.0\bank.Dio.pdb
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\obj\Debug\net5.0\bank.Dio.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\obj\Debug\net5.0\bank.Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\obj\Debug\net5.0\bank.Dio.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\obj\Debug\net5.0\bank.Dio.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\obj\Debug\net5.0\bank.Dio.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\obj\Debug\net5.0\bank.Dio.dll
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\obj\Debug\net5.0\ref\bank.Dio.dll
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\obj\Debug\net5.0\bank.Dio.pdb
+C:\Users\Andre\Desktop\Jogos\ProjetoEu\Projetos\transferencia-bancaria\bank.Dio\obj\Debug\net5.0\bank.Dio.genruntimeconfig.cache
